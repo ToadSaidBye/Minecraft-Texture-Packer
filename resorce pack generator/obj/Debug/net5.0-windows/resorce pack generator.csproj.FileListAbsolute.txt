@@ -1,0 +1,18 @@
+C:\Users\wills\source\repos\resorce pack generator\resorce pack generator\bin\Debug\net5.0-windows\resorce pack generator.exe
+C:\Users\wills\source\repos\resorce pack generator\resorce pack generator\bin\Debug\net5.0-windows\resorce pack generator.deps.json
+C:\Users\wills\source\repos\resorce pack generator\resorce pack generator\bin\Debug\net5.0-windows\resorce pack generator.runtimeconfig.json
+C:\Users\wills\source\repos\resorce pack generator\resorce pack generator\bin\Debug\net5.0-windows\resorce pack generator.runtimeconfig.dev.json
+C:\Users\wills\source\repos\resorce pack generator\resorce pack generator\bin\Debug\net5.0-windows\resorce pack generator.dll
+C:\Users\wills\source\repos\resorce pack generator\resorce pack generator\bin\Debug\net5.0-windows\ref\resorce pack generator.dll
+C:\Users\wills\source\repos\resorce pack generator\resorce pack generator\bin\Debug\net5.0-windows\resorce pack generator.pdb
+C:\Users\wills\source\repos\resorce pack generator\resorce pack generator\obj\Debug\net5.0-windows\resorce pack generator.csproj.AssemblyReference.cache
+C:\Users\wills\source\repos\resorce pack generator\resorce pack generator\obj\Debug\net5.0-windows\resorce_pack_generator.Form1.resources
+C:\Users\wills\source\repos\resorce pack generator\resorce pack generator\obj\Debug\net5.0-windows\resorce pack generator.csproj.GenerateResource.cache
+C:\Users\wills\source\repos\resorce pack generator\resorce pack generator\obj\Debug\net5.0-windows\resorce pack generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wills\source\repos\resorce pack generator\resorce pack generator\obj\Debug\net5.0-windows\resorce pack generator.AssemblyInfoInputs.cache
+C:\Users\wills\source\repos\resorce pack generator\resorce pack generator\obj\Debug\net5.0-windows\resorce pack generator.AssemblyInfo.cs
+C:\Users\wills\source\repos\resorce pack generator\resorce pack generator\obj\Debug\net5.0-windows\resorce pack generator.csproj.CoreCompileInputs.cache
+C:\Users\wills\source\repos\resorce pack generator\resorce pack generator\obj\Debug\net5.0-windows\resorce pack generator.dll
+C:\Users\wills\source\repos\resorce pack generator\resorce pack generator\obj\Debug\net5.0-windows\ref\resorce pack generator.dll
+C:\Users\wills\source\repos\resorce pack generator\resorce pack generator\obj\Debug\net5.0-windows\resorce pack generator.pdb
+C:\Users\wills\source\repos\resorce pack generator\resorce pack generator\obj\Debug\net5.0-windows\resorce pack generator.genruntimeconfig.cache
