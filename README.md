@@ -1,6 +1,6 @@
 # Minecraft-texture-packer
 An app used to make a texture pack out of minecraft jars.
-Select either a minecraft run (1.18.1.jar) or mod (Biomes-o-blenty.jar).
+Select either a minecraft run (1.18.1.jar) or mod (Biomes-o-plenty.jar).
 # How to Use
 You first give your pack a name in the first text box.
 You then select a jar of either a minecraft file or mod.
